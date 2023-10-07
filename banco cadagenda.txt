@@ -1,0 +1,28 @@
+add libraries
+MySQL JDBC Driver
+
+
+BANCO DE DADOS cadagenda
+
+CREATE TABLE `agenda` (                                   
+          `Codigo` int(11) NOT NULL auto_increment,               
+          `Nome` varchar(100) default NULL,                       
+          `Endereco` varchar(100) default NULL,                   
+          `Fone` varchar(20) default NULL,                        
+          `Celular` varchar(20) default NULL,                     
+          `Sexo` varchar(20) default NULL,                        
+          `Obs` varchar(100) default NULL,                        
+          UNIQUE KEY `Codigo` (`Codigo`)                          
+        ) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=latin1  ;
+
+
+
+
+CREATE TABLE `users` (                       
+          `userid` int(11) NOT NULL auto_increment,  
+          `firstname` varchar(100) default NULL,     
+          `lastname` varchar(200) default NULL,      
+          `dob` date default NULL,                   
+          `email` varchar(200) default NULL,         
+          UNIQUE KEY `userid` (`userid`)             
+        ) ENGINE=InnoDB DEFAULT CHARSET=latin1  

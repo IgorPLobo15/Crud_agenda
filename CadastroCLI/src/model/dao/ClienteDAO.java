@@ -15,7 +15,7 @@ import model.bean.Cliente;
 
 /**
  *
- * @author Nelson Batista
+ * @author Igor Lobo
  */
 public class ClienteDAO {
     

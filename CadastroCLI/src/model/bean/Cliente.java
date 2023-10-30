@@ -2,7 +2,7 @@ package model.bean;
 //Temos aqui os atributos do banco de dados
 /**
  *
- * @author Nelson Batista */
+ * @author Igor Lobo */
 public class Cliente {
     private int Codigo;
     private String Nome;

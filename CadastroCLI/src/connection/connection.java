@@ -6,7 +6,7 @@ package connection;
 
 /**
  *
- * @author Nelson Batista
+ * @author Igor Lobo
  */
 class connection {
     

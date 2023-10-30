@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Nelson Batista
+ * @author Igor Lobo
  */
 public class Clientes extends javax.swing.JFrame {
 

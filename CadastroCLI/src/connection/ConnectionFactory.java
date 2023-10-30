@@ -8,7 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Nelson Batista
+ * @author Igor Lobo
  */
 public class ConnectionFactory {
 

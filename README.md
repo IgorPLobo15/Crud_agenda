@@ -47,6 +47,4 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos 
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
----
 
-Espero que essa documentação seja útil para você compartilhar seu projeto no GitHub. Certifique-se de atualizar os detalhes específicos do seu projeto, como o nome do autor e outras informações relevantes.
